@@ -37,19 +37,19 @@
 </head>
 <body>
 	<ul>
-		<li id="java">JAVA</li>
-		<li> WEB </li>
+		<li id="java">JAVA2</li>
+		<li> WEB2 </li>
 		<ul>
-			<li id="jsp">JSP</li>
+			<li id="jsp">JSP2</li>
 			<ul>
-				<li class = "bg">EL</li>
-				<li class = "bg">JSTL</li>
+				<li class = "bg">EL2</li>
+				<li class = "bg">JSTL2</li>
 			</ul>
-			<li class = "bg">SPRING</li>
+			<li class = "bg">SPRING2</li>
 		</ul>
-		<li class = "bg"> ANDROID </li>
+		<li class = "bg"> ANDROID2 </li>
 	</ul>
 	<hr>
-	<div id="box">눌러주세요</div>
+	<div id="box">눌러주세요2</div>
 </body>
 </html>
