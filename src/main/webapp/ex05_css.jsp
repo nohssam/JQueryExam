@@ -45,9 +45,9 @@
 				<li class = "bg">EL</li>
 				<li class = "bg">JSTL</li>
 			</ul>
-			<li>SPRING</li>
+			<li class = "bg">SPRING</li>
 		</ul>
-		<li> ANDROID </li>
+		<li class = "bg"> ANDROID </li>
 	</ul>
 	<hr>
 	<div id="box">눌러주세요</div>
