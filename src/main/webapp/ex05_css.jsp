@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>$().css() : css 적용</title>
+<title>$(선택자).css() : css 적용</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 <style type="text/css">
 	.red{background:red;}
@@ -42,12 +42,12 @@
 		<ul>
 			<li id="jsp">JSP2</li>
 			<ul>
-				<li class = "bg">EL2</li>
-				<li class = "bg">JSTL2</li>
+				<li>EL2</li>
+				<li>JSTL2</li>
 			</ul>
-			<li class = "bg">SPRING2</li>
+			<li>SPRING2</li>
 		</ul>
-		<li class = "bg"> ANDROID2 </li>
+		<li> ANDROID2 </li>
 	</ul>
 	<hr>
 	<div id="box">눌러주세요2</div>
